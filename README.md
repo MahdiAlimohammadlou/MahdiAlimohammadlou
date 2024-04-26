@@ -25,7 +25,7 @@ I'm a Back-End Developer known for my collaborative approach and continuous lear
 
 
 ## Rapidfire  
-<table><tr><td valign="top" width="100%">
+<table><tr><td valign="top" width="50%">
 
 - 🔭 I’m currently working on building scalable APIs using Django frameworks.  
   
@@ -83,7 +83,7 @@ I'm a Back-End Developer known for my collaborative approach and continuous lear
 
 
 ## Github Stats  
-<table><tr><td valign="top" width="50%">
+<table align="center"><tr><td valign="top" width="50%">
 
 <img src="https://github-readme-stats.vercel.app/api?username=MahdiAlimohammadlou&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
 
