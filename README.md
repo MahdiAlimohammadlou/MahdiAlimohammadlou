@@ -1,5 +1,4 @@
 ## Hey 👋, I'm Mahdi Alimohammadlou  
-  
 
 <div align="center">
     <a href="https://github.com/MahdiAlimohammadlou" target="_blank">
@@ -15,6 +14,7 @@
         <img src="https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white" alt="Stack Overflow" style="margin-bottom: 5px;" />
     </a>
 </div>
+<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/19db51af5f90f1b152bc0b9078f5fe97053955be5074f03f17019c70345bdcdb/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
 
 
 ### 🌟 Glad to see you here!  
@@ -23,26 +23,16 @@ I'm a Back-End Developer known for my collaborative approach and continuous lear
 
 <br/>  
 
-
 ## Rapidfire  
-<table><tr><td valign="top" width="50%">
-
 - 🔭 I’m currently working on building scalable APIs using Django frameworks.  
   
-
 - 🌱 I’m currently learning advanced Python concepts like async programming and design patterns.  
   
-
 - ❓ Ask me about RESTful API design, database modeling, or Python best practices.  
   
-
-- ⚡ Fun fact: I once wrote a Python script to create a tic-tac-toe game from scratch!  
-
-
-</td></tr></table>  
+- ⚡ Fun fact: I once wrote a Python script to create a tic-tac-toe game from scratch!
 
 <br/>  
-
 
 ## Languages and Tools  
 <div align="center">  
@@ -76,29 +66,13 @@ I'm a Back-End Developer known for my collaborative approach and continuous lear
 
 
 ## Github Stats  
-<table align="center"><tr><td valign="top" width="50%">
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MahdiAlimohammadlou&show_icons=true&count_private=true&hide_border=true" style="width: 45%;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MahdiAlimohammadlou&hide_border=true&layout=compact" style="width: 45%;" />
+</div>
 
-<img src="https://github-readme-stats.vercel.app/api?username=MahdiAlimohammadlou&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
 
-</td><td valign="top" width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MahdiAlimohammadlou&hide_border=true&layout=compact" align="left" style="width: 100%" />
-
-</td></tr></table>  
-
-<br/>  
-
-  
 
 <br/>  
 
 ![Profile views counter](https://komarev.com/ghpvc/?username=rishavanand&&style=flat-square)  
-  
-
-<br/>  
-
-
-<br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
