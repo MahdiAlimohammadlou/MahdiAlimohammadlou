@@ -25,7 +25,7 @@ I'm a Back-End Developer known for my collaborative approach and continuous lear
 
 
 ## Rapidfire  
-<table><tr><td valign="top" width="50%">
+<table><tr><td valign="top" width="100%">
 
 - 🔭 I’m currently working on building scalable APIs using Django frameworks.  
   
