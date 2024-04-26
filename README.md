@@ -25,7 +25,7 @@ I'm a Back-End Developer known for my collaborative approach and continuous lear
 
 
 ## Rapidfire  
-<table><tr><td valign="top" width="50%">
+<table><tr><td valign="top" width="100%">
 
 - 🔭 I’m currently working on building scalable APIs using Django frameworks.  
   
@@ -37,13 +37,6 @@ I'm a Back-End Developer known for my collaborative approach and continuous lear
   
 
 - ⚡ Fun fact: I once wrote a Python script to create a tic-tac-toe game from scratch!  
-
-
-</td><td valign="top" width="50%">
-
-<div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
-</div>  
 
 
 </td></tr></table>  
