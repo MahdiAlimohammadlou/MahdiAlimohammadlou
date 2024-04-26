@@ -1,20 +1,20 @@
 ## Hey 👋, I'm Mahdi Alimohammadlou  
   
 
-<a href="https://github.com/MahdiAlimohammadlou" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://linkedin.com/in/mahdialimohammadlou" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-<a href="https://instagram.com/mahdialimohammadlou" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>
-<a href="https://stackoverflow.com/users/23478977/user23478977" target="_blank">
-<img src=https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white alt=stackoverflow style="margin-bottom: 5px;" />
-</a> 
-  
-
+<div align="center">
+    <a href="https://github.com/MahdiAlimohammadlou" target="_blank">
+        <img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" alt="Github" style="margin-bottom: 5px;" />
+    </a>
+    <a href="https://linkedin.com/in/mahdialimohammadlou" target="_blank">
+        <img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="margin-bottom: 5px;" />
+    </a>
+    <a href="https://instagram.com/mahdialimohammadlou" target="_blank">
+        <img src="https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" style="margin-bottom: 5px;" />
+    </a>
+    <a href="https://stackoverflow.com/users/23478977/user23478977" target="_blank">
+        <img src="https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white" alt="Stack Overflow" style="margin-bottom: 5px;" />
+    </a>
+</div>
 
 
 ### 🌟 Glad to see you here!  
@@ -37,13 +37,6 @@ I'm a Back-End Developer known for my collaborative approach and continuous lear
   
 
 - ⚡ Fun fact: I once wrote a Python script to create a tic-tac-toe game from scratch!  
-
-
-</td><td valign="top" width="50%">
-
-<div align="center">
-<img src="[https://rishavanand.github.io/static/images/greetings.gif](https://camo.githubusercontent.com/19db51af5f90f1b152bc0b9078f5fe97053955be5074f03f17019c70345bdcdb/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966)" align="center" style="width: 100%" />
-</div>  
 
 
 </td></tr></table>  
